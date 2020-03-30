@@ -16,6 +16,7 @@ Comment cela nous aide:
 ## Efficience
  
 ## PORTABILITÉ - TRANSFERABILITÉ
+- facilité d'installation et de configuration dans plusieurs environnements.
 ## PERFORMANCE
 - Le temps de démarrage
 - Le temps de certaines actions longues
