@@ -17,7 +17,12 @@ Comment cela nous aide:
  
 ## PORTABILITÉ - TRANSFERABILITÉ
 ## PERFORMANCE
+- Le temps de démarrage
+- Le temps de certaines actions longues
+- Le temps d’exécution de tous les tests
 ## RÉUTILISABILITÉ
 ## MAINTENABILITÉ
+- la conception doit permettre de maintenir le logiciel à moindre couts.
+- Le respect des règles de codage et de conception
 ## TESTABILITÉ
 ## SÉCURITÉ
