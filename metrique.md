@@ -5,3 +5,4 @@
   
 ## externe
   - disponibilité la plus haute : quatre 9
+  - portable : foncionnement corect sur les différents navigateurs
