@@ -7,9 +7,14 @@ Comment cela nous aide:
  - nous permet d'éviter de dériver et de corriger le tir 
 ## Précision
 ## Conformité
+ - 
 ## Fiabilité
+ - resiste aux erreurs de l'utilisateur : grand nombre de test
 ## Utilisabilité
+ - reflexion avancé sur l'UX du site pour le rendre le plus accessible et simple d'utilisation
+ - test d'UX : interview utilisateur, personna 
 ## Efficience
+ 
 ## PORTABILITÉ - TRANSFERABILITÉ
 ## PERFORMANCE
 ## RÉUTILISABILITÉ
